@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.Enum&apos; to &apos;Citizen-API_AR/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;AR&apos;&#x0D;&#x0A;- Destination element: &apos;Citizen-API_AR/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;AR/src/main/java/com.Enum&apos;" description="Copy package" destination="=Citizen-API_AR/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Enum" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1765125363486" version="1.0"/>
+</session>

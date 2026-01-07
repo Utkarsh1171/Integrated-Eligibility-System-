@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Citizen-API_AR"/>
+<aop-project name="DC"/>
+<aop-project name="API_AUTH"/>
+<aop-project name="DC-API"/>
+<aop-project name="ServiceRegitry"/>
+<aop-project name="Plan_API_Admin"/>
+</aop-reference-model>
